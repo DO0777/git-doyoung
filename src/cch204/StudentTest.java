@@ -18,6 +18,8 @@ public class StudentTest {
 		studentKim.address = "경기도 성남시";
 		
 		studentKim.showStudentInfo();
+		System.out.println(studentKim);
+		System.out.println(studentLee);
 	}
 
 }
